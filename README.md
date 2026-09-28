@@ -34,11 +34,9 @@ The project also highlights the major unemployment spike during the COVID-19 loc
 ```text
 unemployment-analysis/
 │
-├── Dataset/
+├── Notebook/
 │   ├── Unemployment in India.csv
 │   └── Unemployment_Rate_upto_11_2020.csv
-│
-├── Notebook/
 │   └── unemployement.ipynb
 │
 ├── requirements.txt
