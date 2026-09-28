@@ -38,14 +38,6 @@ unemployment-analysis/
 │   ├── Unemployment in India.csv
 │   └── Unemployment_Rate_upto_11_2020.csv
 │
-├── Images/
-│   ├── image1.png
-│   ├── image2.png
-│   ├── image3.png
-│   ├── image4.png
-│   ├── image5.png
-│   └── image6.png
-│
 ├── Notebook/
 │   └── unemployement.ipynb
 │
